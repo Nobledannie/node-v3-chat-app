@@ -1,0 +1,1 @@
+This is a realtime chat application. Users can create rooms and login to chat with each other in the same room. A user in another room can only send and recieve messages from the room they are in.
